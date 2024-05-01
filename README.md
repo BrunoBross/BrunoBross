@@ -1,7 +1,7 @@
 ### Hi, i'm Bruno! A full-stack developer at @laboratoriobridge! 👋🏻
 
 - 🔭 I’m currently working on Laboratório Bridge.
-- 🌱 I’m currently learning Java, React, Python, Javascript and TypeScript.
+- 🌱 I’m currently learning Java, Kotlin, React, React Native, Node, TypeScript and others.
 - 📫 How to reach me: @bbarreto18
 
 <div align="center">
